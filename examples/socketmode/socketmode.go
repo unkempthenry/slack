@@ -8,7 +8,7 @@ import (
 
 	"github.com/slack-go/slack/socketmode"
 
-	"github.com/slack-go/slack"
+	"github.com/unkempthenry/slack"
 	"github.com/slack-go/slack/slackevents"
 )
 

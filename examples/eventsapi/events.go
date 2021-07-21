@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/slack-go/slack"
+	"github.com/unkempthenry/slack"
 	"github.com/slack-go/slack/slackevents"
 )
 

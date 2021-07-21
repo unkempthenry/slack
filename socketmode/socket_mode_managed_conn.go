@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/slack-go/slack"
+	"github.com/unkempthenry/slack"
 	"github.com/slack-go/slack/internal/backoff"
 	"github.com/slack-go/slack/internal/misc"
 	"github.com/slack-go/slack/slackevents"

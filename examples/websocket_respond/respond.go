@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/slack-go/slack"
+	"github.com/unkempthenry/slack"
 )
 
 func main() {

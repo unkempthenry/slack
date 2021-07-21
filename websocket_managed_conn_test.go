@@ -9,7 +9,7 @@ import (
 
 	websocket "github.com/gorilla/websocket"
 	"github.com/unkempthenry/slack"
-	"github.com/slack-go/slack/slacktest"
+	"github.com/unkempthenry/slack/slacktest"
 	"github.com/stretchr/testify/assert"
 )
 

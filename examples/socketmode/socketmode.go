@@ -6,10 +6,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/slack-go/slack/socketmode"
+	"github.com/unkempthenry/slack/socketmode"
 
 	"github.com/unkempthenry/slack"
-	"github.com/slack-go/slack/slackevents"
+	"github.com/unkempthenry/slack/slackevents"
 )
 
 func main() {

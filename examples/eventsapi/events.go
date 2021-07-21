@@ -8,7 +8,7 @@ import (
 	"os"
 
 	"github.com/unkempthenry/slack"
-	"github.com/slack-go/slack/slackevents"
+	"github.com/unkempthenry/slack/slackevents"
 )
 
 // You more than likely want your "Bot User OAuth Access Token" which starts with "xoxb-"
